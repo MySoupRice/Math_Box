@@ -6,4 +6,7 @@ def subtract(a, b):
   return a-b
 
 def multiply(a, b):
-  return a*b   #암튼 오류수정했음
+  return a*b   
+
+def divide(a, b):
+  return a/b
